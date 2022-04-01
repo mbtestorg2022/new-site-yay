@@ -1,0 +1,30 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "new-site-yay"
+  },
+  "course_image": {
+    "content": "",
+    "website": "new-site-yay"
+  },
+  "course_title": "My New Site Local",
+  "highlights_text": "",
+  "related_content": "",
+  "course_description": "My New Site Local",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "abc123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "new-site-yay"
+  },
+  "learning_resource_types": [],
+  "site_uid": "34d8fec8-e7fd-4186-969a-089152bb3219"
+}
