@@ -5,8 +5,10 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "new-site-yay"
+    "content": [
+      "65a64cda-d0ab-e200-293e-d7879819472b"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "",
